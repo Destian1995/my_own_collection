@@ -1,0 +1,4 @@
+---
+# defaults file for my_role
+test_path: "/tmp/test_remote_01.txt"
+test_content: "Test module in task\nHello, netology!\n"
