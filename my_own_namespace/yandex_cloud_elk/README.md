@@ -36,7 +36,7 @@ Example Playbook
 ---
 - name: Test my_own_module in yandex.cloud
   hosts:
-    - ubuntu-ansible
+    - centos-ansible
   roles:
     - my_role
 
