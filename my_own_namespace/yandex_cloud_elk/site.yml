@@ -4,3 +4,4 @@
     - centos-ansible
   roles:
     - my_role
+    
